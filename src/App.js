@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import RootLayout from "./layouts/RootLayout";
+import { useEffect, useState } from "react";
+import content from "./utils/content.json";
 
 function App() {
+  const [pageContent, setPageContent] = useState([]);
+
+  const fetchContent = () => {
+    setPageContent(content.pages);
+  };
+
+  useEffect(() => {
+    fetchContent();
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <RootLayout pageContent={pageContent} />
     </div>
   );
 }
