@@ -9,7 +9,7 @@ const CTAComponent = (props) => {
       </div>
       <div className="flex-one justify-center">
         <span>
-          LET'S TALK
+          LET'S TALK.
           <img src={"../assets/arrow.png"} className="cta-arrow" alt="next" />
         </span>
       </div>
