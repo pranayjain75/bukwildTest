@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bukwildTest/static/css/main.19158418.chunk.css",
-    "main.js": "/bukwildTest/static/js/main.aaa8d71d.chunk.js",
-    "main.js.map": "/bukwildTest/static/js/main.aaa8d71d.chunk.js.map",
+    "main.js": "/bukwildTest/static/js/main.375ffe79.chunk.js",
+    "main.js.map": "/bukwildTest/static/js/main.375ffe79.chunk.js.map",
     "runtime-main.js": "/bukwildTest/static/js/runtime-main.43150e45.js",
     "runtime-main.js.map": "/bukwildTest/static/js/runtime-main.43150e45.js.map",
     "static/js/2.f199b5da.chunk.js": "/bukwildTest/static/js/2.f199b5da.chunk.js",
@@ -14,12 +14,15 @@
     "static/js/2.f199b5da.chunk.js.LICENSE.txt": "/bukwildTest/static/js/2.f199b5da.chunk.js.LICENSE.txt",
     "static/media/abc_logo.c72ca4e0.svg": "/bukwildTest/static/media/abc_logo.c72ca4e0.svg",
     "static/media/arrow.bdcff81d.png": "/bukwildTest/static/media/arrow.bdcff81d.png",
-    "static/media/logo.6ce24c58.svg": "/bukwildTest/static/media/logo.6ce24c58.svg"
+    "static/media/logo.6ce24c58.svg": "/bukwildTest/static/media/logo.6ce24c58.svg",
+    "static/media/slide_one.df407357.jpg": "/bukwildTest/static/media/slide_one.df407357.jpg",
+    "static/media/slide_three.25c6c4ee.jpg": "/bukwildTest/static/media/slide_three.25c6c4ee.jpg",
+    "static/media/slide_two.b7b871cc.jpg": "/bukwildTest/static/media/slide_two.b7b871cc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.43150e45.js",
     "static/js/2.f199b5da.chunk.js",
     "static/css/main.19158418.chunk.css",
-    "static/js/main.aaa8d71d.chunk.js"
+    "static/js/main.375ffe79.chunk.js"
   ]
 }
