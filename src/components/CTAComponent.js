@@ -1,5 +1,6 @@
 import React from "react";
 import "./component.scss";
+import ArrowLogo from "../assets/arrow.png";
 
 const CTAComponent = (props) => {
   return (
@@ -10,7 +11,7 @@ const CTAComponent = (props) => {
       <div className="flex-one justify-center">
         <span>
           LET'S TALK.
-          <img src={"../assets/arrow.png"} className="cta-arrow" alt="next" />
+          <img src={ArrowLogo} className="cta-arrow" alt="next" />
         </span>
       </div>
     </div>
