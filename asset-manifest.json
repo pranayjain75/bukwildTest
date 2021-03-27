@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bukwildTest/static/css/main.19158418.chunk.css",
+    "main.css": "/bukwildTest/static/css/main.8af32c69.chunk.css",
     "main.js": "/bukwildTest/static/js/main.375ffe79.chunk.js",
     "main.js.map": "/bukwildTest/static/js/main.375ffe79.chunk.js.map",
     "runtime-main.js": "/bukwildTest/static/js/runtime-main.43150e45.js",
@@ -10,7 +10,7 @@
     "static/js/3.758edfdd.chunk.js": "/bukwildTest/static/js/3.758edfdd.chunk.js",
     "static/js/3.758edfdd.chunk.js.map": "/bukwildTest/static/js/3.758edfdd.chunk.js.map",
     "index.html": "/bukwildTest/index.html",
-    "static/css/main.19158418.chunk.css.map": "/bukwildTest/static/css/main.19158418.chunk.css.map",
+    "static/css/main.8af32c69.chunk.css.map": "/bukwildTest/static/css/main.8af32c69.chunk.css.map",
     "static/js/2.f199b5da.chunk.js.LICENSE.txt": "/bukwildTest/static/js/2.f199b5da.chunk.js.LICENSE.txt",
     "static/media/abc_logo.c72ca4e0.svg": "/bukwildTest/static/media/abc_logo.c72ca4e0.svg",
     "static/media/arrow.bdcff81d.png": "/bukwildTest/static/media/arrow.bdcff81d.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.43150e45.js",
     "static/js/2.f199b5da.chunk.js",
-    "static/css/main.19158418.chunk.css",
+    "static/css/main.8af32c69.chunk.css",
     "static/js/main.375ffe79.chunk.js"
   ]
 }
